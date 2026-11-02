@@ -1,48 +1,23 @@
-## Hola, soy Teo 👋
+### Teo Matías Botaya
 
-Desarrollador full stack en formación. Estudio **Licenciatura en Sistemas de Información**
-en la Universidad del Salvador (sede Pilar) y trabajo con **.NET, C#, React y TypeScript**.
+Desarrollador full stack en Malvinas Argentinas, Buenos Aires. Estudio la
+**Licenciatura en Sistemas de Información** en la Universidad del Salvador (sede Pilar)
+y construyo sistemas enteros: el modelo de datos, la API y la pantalla.
 
-Me interesa que el software sea **correcto**, no solo que funcione en la demo: modelar bien
-los datos, poner las reglas donde corresponde y dejar el sistema documentado.
+Pongo cada regla en la capa que nadie puede saltear, no dejo secretos en el repositorio
+y no doy nada por terminado si no se puede verificar.
 
-🔗 **[Ver mi portfolio →](https://teobotaya.github.io)**
+**[teobotaya.github.io](https://teobotaya.github.io)** ·
+[CV en PDF](https://teobotaya.github.io/assets/CV-Teo-Botaya.pdf) ·
+[teobotaya@gmail.com](mailto:teobotaya@gmail.com)
 
----
+| Proyecto | Qué es | Con qué |
+|---|---|---|
+| [Botburg Taller](https://botburg-taller.netlify.app) | Gestión para talleres mecánicos con factura electrónica de ARCA. Seguridad por fila por comercio y 193 pruebas | Supabase · PostgreSQL · Netlify |
+| [Sports Complex Admin](https://github.com/teobotaya/sports-complex-admin) | Backoffice para un complejo deportivo: 55 endpoints, 19 páginas y la no superposición de reservas garantizada por un índice único filtrado | ASP.NET Core 8 · SQL Server · React + TypeScript |
+| [Smart Atlas](https://github.com/teobotaya/smart-atlas) | Plugin de Obsidian que convierte las notas en un mapa. Álgebra lineal y clustering escritos a mano, en 29 kB | TypeScript · esbuild · SVG |
+| [Market Desk](https://github.com/teobotaya/market-desk) | Análisis financiero sobre estados contables de la SEC, sin una sola clave de API | Node.js sin dependencias |
+| [DevOps Lab](https://github.com/teobotaya/devops-lab) | Un clúster de Kubernetes que se puede romper desde cinco botones, y que muestra la llamada exacta a la API | Docker · Kubernetes · GitHub Actions |
+| [LoL Auto Accept](https://github.com/teobotaya/lol-auto-accept) | Acepta la partida de League of Legends y avisa al teléfono qué te toca en la selección. 165 pruebas | Node.js |
 
-### Proyecto destacado
-
-#### [Sports Complex Admin](https://github.com/teobotaya/sports-complex-admin)
-
-Sistema de gestión integral para un complejo deportivo: canchas, reservas, clientes, pagos,
-cancelaciones, torneos, equipos y partidos, con control de acceso por rol. Desarrollado de
-forma individual, de la base de datos a la interfaz.
-
-| | |
-|---|---|
-| **Backend** | ASP.NET Core 8 · 12 controllers · 48 endpoints REST · JWT · 16 servicios de dominio |
-| **Datos** | SQL Server · EF Core 8 · 12 tablas con constraints e índices · migraciones versionadas |
-| **Frontend** | React 17 + TypeScript · 17 páginas · sistema de diseño propio en CSS |
-| **Calidad** | 24 pruebas unitarias (xUnit) + Vitest · CI en GitHub Actions · Docker Compose |
-
-La decisión técnica de la que más aprendí: **la regla de no superposición de reservas vive
-en la base de datos**, como índice único filtrado, y no en el formulario. Validar solo en el
-frontend deja la puerta abierta a cualquier otra vía de entrada.
-
----
-
-### Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-📍 Malvinas Argentinas, Buenos Aires · 📫 [teobotaya@gmail.com](mailto:teobotaya@gmail.com)
-
-Abierto a posiciones junior y pasantías.
+Busco un puesto junior o una pasantía, presencial en zona norte de Buenos Aires o remoto.
